@@ -55,6 +55,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U03SUUZMFEV
       github: https://github.com/edwinjue
     picture: https://avatars.githubusercontent.com/edwinjue
+  - name: Joy Truex
+    github-handle: Joy-Truex
+    role: UX Design Lead
+    links:
+      slack: https://hackforla.slack.com/team/U03VBPSEH52
+      github: https://github.com/Joy-Truex
+    picture: https://avatars.githubusercontent.com/Joy-Truex  
 links:
   - name: GitHub
     url: 'https://github.com/hackforla/311-data'
