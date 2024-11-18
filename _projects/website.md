@@ -51,13 +51,6 @@ leadership:
       slack: 'https://hackforla.slack.com/team/U04MJA414LU'
       github: 'https://github.com/Thinking-Panda'
     picture: https://avatars.githubusercontent.com/Thinking-Panda
-  - name: Gayle Martin
-    github-handle: gaylem
-    role: Merge Team
-    links:
-      slack: 'https://hackforla.slack.com/team/U06HC3A0DM0'
-      github: 'https://github.com/gaylem'
-    picture: https://avatars.githubusercontent.com/gaylem
   - name: Danielle Hanson Aras
     github-handle:
     role: Merge Team
