@@ -55,13 +55,6 @@ leadership:
       slack: https://hackforla.slack.com/team/U025XR6MY6S
       github: https://github.com/SamHyler
     picture: https://avatars.githubusercontent.com/SamHyler
-  - name: Emma Thrash
-    github-handle: emmathrash
-    role:  UX Content, Team Co-lead
-    links:
-      slack: https://hackforla.slack.com/team/U05JUM3881J
-      github: https://github.com/emmathrash
-    picture: https://avatars.githubusercontent.com/emmathrash
   - name: Sylvia Nam
     github-handle: sylvia-nam
     role: UX Research, Team Lead
